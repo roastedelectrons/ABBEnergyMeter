@@ -1,0 +1,21 @@
+{
+    "id": "{C38A4827-563E-57E8-0FF2-7E0B2E4C235F}",
+    "name": "ABB B23 Steel",
+    "type": 3,
+    "vendor": "ABB",
+    "aliases": [
+        "ABB B23 112-100",
+        "ABB B24 112-100",
+        "ABB B23 Steel",
+        "ABB B24 Steel"
+    ],
+    "parentRequirements": [
+        "{E310B701-4AE7-458E-B618-EC13A1A6F6A8}"
+    ],
+    "childRequirements": [],
+    "implemented": [
+        "{77B31ABB-18FA-4B91-BB63-E5B2AB5588F4}"
+    ],
+    "prefix": "ABBEM",
+    "url": ""
+}

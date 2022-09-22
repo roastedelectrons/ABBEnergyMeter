@@ -1,0 +1,21 @@
+{
+    "id": "{F315CAC7-57EF-E5E8-97DA-A561A5AEA628}",
+    "name": "ABB B23 Silver",
+    "type": 3,
+    "vendor": "ABB",
+    "aliases": [
+        "ABB B23 312-100",
+        "ABB B24 312-100",
+        "ABB B23 Silver",
+        "ABB B24 Silver"
+    ],
+    "parentRequirements": [
+        "{E310B701-4AE7-458E-B618-EC13A1A6F6A8}"
+    ],
+    "childRequirements": [],
+    "implemented": [
+        "{77B31ABB-18FA-4B91-BB63-E5B2AB5588F4}"
+    ],
+    "prefix": "ABBEM",
+    "url": ""
+}
