@@ -24,7 +24,7 @@ Modul zum Einbinden der ABB Stromzähler der B-Serie über ModBus RTU (RS485) in
 
 Folgende Module beinhaltet das ABBEnergyMeter Repository:
 
-- __EnergyMeter B21/B23/B24 Steel__ ([Dokumentation](ABBBSerieSteel))
+- __EnergyMeter B21/B23/B24 Steel__ ([Dokumentation](ABBBSeriesSteel))
 
 	Symcon-Modul zum Einbinden der ABB Stromzähler B21, B23 und B24 112-100 (Steel) mit ModBus RTU (RS485).
 
