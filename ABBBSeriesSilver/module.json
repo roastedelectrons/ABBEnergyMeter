@@ -1,13 +1,10 @@
 {
     "id": "{F315CAC7-57EF-E5E8-97DA-A561A5AEA628}",
-    "name": "ABB B23 Silver",
+    "name": "ABB B Series Silver",
     "type": 3,
     "vendor": "ABB",
     "aliases": [
-        "ABB B23 312-100",
-        "ABB B24 312-100",
-        "ABB B23 Silver",
-        "ABB B24 Silver"
+        "EnergyMeter B21/B23/B24 312-100 (Silver)"
     ],
     "parentRequirements": [
         "{E310B701-4AE7-458E-B618-EC13A1A6F6A8}"

@@ -1,5 +1,5 @@
-# ABB Energy Meter B23/B24 Silver
-Symcon-Modul zum Einbinden der ABB Stromzähler B23 312-100 und B24 312-100 mit ModBus RTU (RS485).
+# ABB Energy Meter B21/B23/B24 Silver
+Symcon-Modul zum Einbinden der ABB Stromzähler B21, B23 und B24 312-100 (Silver) mit ModBus RTU (RS485).
 
 ### Inhaltsverzeichnis
 

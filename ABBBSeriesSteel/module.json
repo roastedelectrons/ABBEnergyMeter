@@ -1,13 +1,10 @@
 {
     "id": "{C38A4827-563E-57E8-0FF2-7E0B2E4C235F}",
-    "name": "ABB B23 Steel",
+    "name": "ABB B Series Steel",
     "type": 3,
     "vendor": "ABB",
     "aliases": [
-        "ABB B23 112-100",
-        "ABB B24 112-100",
-        "ABB B23 Steel",
-        "ABB B24 Steel"
+        "EnergyMeter B21/B23/B24 112-100 (Steel)"
     ],
     "parentRequirements": [
         "{E310B701-4AE7-458E-B618-EC13A1A6F6A8}"
